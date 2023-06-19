@@ -15,3 +15,5 @@ In this Repository There is a file called GooglePlayScraper-to-excel.py.
 5. if you want to scrape the information of applications/games in other categories (not AR), just change the value of the variable 'url' in the code with your desired category address.
 
 ...in the next upload we are going to do some data analytics on our data 
+
+Peace
